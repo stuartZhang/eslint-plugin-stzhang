@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-minxing",
+  "version": "0.0.1",
+  "author": "StuartZhang",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.dehuinet.com/zhanghy/eslint-plugin-minxing.git"
+  },
+  "dependencies": {
+    "requireindex": "^1.1.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "mocha": "^4.0.1"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  }
+}
