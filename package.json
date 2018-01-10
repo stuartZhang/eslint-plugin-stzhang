@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-minxing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "StuartZhang",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.dehuinet.com/zhanghy/eslint-plugin-minxing.git"
+    "url": "https://github.com/stuartZhang/eslint-plugin-minxing.git"
   },
   "dependencies": {
     "requireindex": "^1.1.0",
