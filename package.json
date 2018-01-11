@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-minxing",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "StuartZhang",
   "main": "lib/index.js",
   "scripts": {
@@ -19,6 +19,6 @@
     "mocha": "^4.0.1"
   },
   "engines": {
-    "node": ">=6.10"
+    "node": ">=6.0"
   }
 }
