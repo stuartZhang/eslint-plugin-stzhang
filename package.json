@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-minxing",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "StuartZhang",
   "main": "lib/index.js",
   "scripts": {
