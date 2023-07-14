@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-minxing",
+  "name": "eslint-plugin-stzhang2",
   "version": "0.0.5",
   "author": "StuartZhang",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stuartZhang/eslint-plugin-minxing.git"
+    "url": "https://github.com/stuartZhang/eslint-plugin-stzhang2.git"
   },
   "dependencies": {
     "requireindex": "^1.1.0",

@@ -1,5 +1,5 @@
-# eslint-plugin-minxing
-A group of ESLint plugin and presets for the minxing company.
+# eslint-plugin-stzhang2
+A group of ESLint plugin and presets for the stzhang2 company.
 # Setup
 1. Global tools
     1. `npm install -g yo`
@@ -20,22 +20,22 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-minxing`:
+Next, install `eslint-plugin-stzhang2`:
 
 ```
-$ npm install eslint-plugin-minxing --save-dev
+$ npm install eslint-plugin-stzhang2 --save-dev
 ```
 
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eeslint-plugin-minxing` globally.
+**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eeslint-plugin-stzhang2` globally.
 
 ## Usage
 
-Add `minxing` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `stzhang2` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
     "plugins": [
-        "minxing"
+        "stzhang2"
     ]
 }
 ```
@@ -46,13 +46,13 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
   "rules": {
-    "minxing/arrow-parens": ["error", "as-needed"],
-    "minxing/generator-star-spacing": ["error", "before"],
-    "minxing/no-array-concat": ["error"],
-    "minxing/no-string-charcode": ["error"],
-    "minxing/no-util-format": ["error"],
-    "minxing/require-yield": 2,
-    "minxing/no-console": 2
+    "stzhang2/arrow-parens": ["error", "as-needed"],
+    "stzhang2/generator-star-spacing": ["error", "before"],
+    "stzhang2/no-array-concat": ["error"],
+    "stzhang2/no-string-charcode": ["error"],
+    "stzhang2/no-util-format": ["error"],
+    "stzhang2/require-yield": 2,
+    "stzhang2/no-console": 2
   }
 }
 ```
